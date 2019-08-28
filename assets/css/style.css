@@ -1,0 +1,41 @@
+/*
+This is the primary HTML style
+*/
+html {
+  font-size: 0.75em; }
+
+.foo-1 {
+  background: orange; }
+  .foo-1 p {
+    color: blue;
+    font-size: 14px;
+    font-weight: bold; }
+
+.foo-2 {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 2em; }
+
+a {
+  color: blue;
+  text-decoration: none; }
+  a:hover {
+    text-decoration: underline; }
+
+.foo-3 {
+  background: orange; }
+  .foo-3.block {
+    border: 1px solid; }
+
+.cssgradients .foo-4 {
+  background: -webkit-linear-gradient(top, #c9de96 0%, #8ab66b 44%, #398235 100%);
+  background: -moz-linear-gradient(top, #c9de96 0%, #8ab66b 44%, #398235 100%);
+  background: linear-gradient(top, #c9de96 0%, #8ab66b 44%, #398235 100%); }
+
+.no-cssgradients .foo-4 {
+  background: #c9de96; }
+
+.foo-5 .awesome .class .amazing .things {
+  background: orange; }
+  .no-foo .foo-5 .awesome .class .amazing .things {
+    background: green; }
