@@ -1,4 +1,4 @@
-# SCSS
+# SASS
 ## procédure et commandes dans le Terminal
 - Créer un nouveau dossier ou cloner un repo
 - Créer les dossiers et fichiers `assets/scss/style.scss` et `assets/css/style.css`
