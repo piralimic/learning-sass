@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "coucou": "Coucou hibou",
     "scss": "node-sass assets/scss -wo assets/css"
   },
   "keywords": [],
