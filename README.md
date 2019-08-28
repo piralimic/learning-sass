@@ -6,5 +6,5 @@
 - Pour installer les modules
   - *(clique-droit)* Ouvrir dans un Terminal
   - Exécuter : `npm i`
-- Activer la compilation SCSS/CSS
+- Activer la compilation SASS *(script dans package.json)*
   - Exécuter : `npm run scss`
